@@ -14402,6 +14402,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Shivanshi Atharv\\Desktop\\ToDo\\AspNetCoreTodo\\Views\\ToDo\\AddItemPartial.cshtml",
+      "TargetPath": "Views\\ToDo\\AddItemPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Shivanshi Atharv\\Desktop\\ToDo\\AspNetCoreTodo\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
