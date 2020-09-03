@@ -36,7 +36,7 @@ namespace AspNetCoreTodo
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
            services.AddRazorPages();
-           services.AddSingleton<ITodoItemService, FakeTodoItemService>();  
+           services.AddScoped<ITodoItemService, TodoItemService>();  
              services.AddMvc();
         }
 
